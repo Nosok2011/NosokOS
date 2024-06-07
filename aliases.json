@@ -1,0 +1,17 @@
+{
+    "dir": [
+        "ls",
+        "lf"
+    ],
+    "poweroff": [
+        "exit"
+    ],
+    "mkfile": [
+        "touch"
+    ],
+    "cmd": [
+        "wincmd",
+        "cmdwin",
+        "win"
+    ]
+}

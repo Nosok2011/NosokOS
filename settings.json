@@ -1,0 +1,17 @@
+{
+    "setup": 0,
+    "defaults": {
+        "username": "Admin",
+        "password": "qwerty1234",
+        "pcName": "NosokPC"
+    },
+    "single_cmds": [
+        "dir",
+        "ls",
+        "lf",
+        "poweroff",
+        "reboot",
+        "exit",
+        "restart"
+    ]
+}
